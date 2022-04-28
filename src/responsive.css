@@ -1,0 +1,146 @@
+@media all and (max-width: 1280px) {
+    body {
+        min-width: 670px;
+    }
+
+    .modal-header {
+      margin-bottom: 40px;
+    }
+      
+    .modal-inner {
+      width: 400px;
+      padding-bottom: 40px;
+    }
+      
+    .modal-introduction p {
+      width: 320px;
+      margin: 30px auto 35px;
+    }
+      
+    .modal-close-btn {
+      width: 160px;
+      padding: 12px 0;
+    }     
+}
+
+@media all and (max-width: 670px) {
+    body {
+        min-width: 375px;
+    }
+
+    .header-logo {
+      padding-left: 20px;
+    }
+
+    .header-logo a {
+      font-size: 25px;
+    }
+    
+    .header-logo p {
+      font-size: 10px;
+    }
+
+    .header-list {
+      padding-right: 20px;
+    }
+
+    .header-list li {
+      padding-left: 20px;
+    }
+
+    .menu-item {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .menu-item img {
+      margin: 0;
+      max-width: 80%;
+    }
+
+    .left {
+      margin: 0;
+      width: 90%;
+      text-align: center;
+    }
+
+    .modal-header {
+      margin-bottom: 25px;
+    }
+      
+    .modal-inner {
+      width: 350px;
+      padding-bottom: 25px;
+    }
+      
+    .modal-introduction p {
+      width: 250px;
+      margin: 20px auto 25px;
+    }
+      
+    .modal-close-btn {
+      width: 120px;
+      padding: 10px 0;
+    }
+}
+
+@media all and (max-width: 375px) {
+  body {
+      min-width: 200px;
+  }
+
+  .header-logo {
+    padding-left: 20px;
+  }
+
+  .header-logo a {
+    font-size: 25px;
+  }
+  
+  .header-logo p {
+    font-size: 10px;
+  }
+
+  .header-list {
+    padding-right: 20px;
+  }
+
+  .header-list li {
+    padding-left: 20px;
+  }
+
+  .menu-item {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .menu-item img {
+    margin: 0;
+    max-width: 80%;
+  }
+
+  .left {
+    margin: 0;
+    width: 90%;
+    text-align: center;
+  }
+
+  .modal-header {
+    margin-bottom: 25px;
+  }
+    
+  .modal-inner {
+    width: 250px;
+    padding-bottom: 25px;
+  }
+    
+  .modal-introduction p {
+    width: 200px;
+    margin: 20px auto 25px;
+  }
+    
+  .modal-close-btn {
+    width: 120px;
+    padding: 10px 0;
+  }
+}
