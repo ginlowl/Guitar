@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Guitar/static/css/main.02595d9d.css",
-    "main.js": "/Guitar/static/js/main.fe290f7d.js",
+    "main.css": "/Guitar/static/css/main.fa83f752.css",
+    "main.js": "/Guitar/static/js/main.e3d2f017.js",
     "static/js/787.4044f08c.chunk.js": "/Guitar/static/js/787.4044f08c.chunk.js",
     "static/media/other.JPG": "/Guitar/static/media/other.995a8b94032fb2a50b08.JPG",
     "static/media/effecter.JPG": "/Guitar/static/media/effecter.a0c1eb96ea6d30c2a618.JPG",
     "static/media/guitar.JPG": "/Guitar/static/media/guitar.432e49695cf4446c97d0.JPG",
     "static/media/guitar_main.png": "/Guitar/static/media/guitar_main.f0cd140109c519830a03.png",
     "index.html": "/Guitar/index.html",
-    "main.02595d9d.css.map": "/Guitar/static/css/main.02595d9d.css.map",
-    "main.fe290f7d.js.map": "/Guitar/static/js/main.fe290f7d.js.map",
+    "main.fa83f752.css.map": "/Guitar/static/css/main.fa83f752.css.map",
+    "main.e3d2f017.js.map": "/Guitar/static/js/main.e3d2f017.js.map",
     "787.4044f08c.chunk.js.map": "/Guitar/static/js/787.4044f08c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02595d9d.css",
-    "static/js/main.fe290f7d.js"
+    "static/css/main.fa83f752.css",
+    "static/js/main.e3d2f017.js"
   ]
 }
