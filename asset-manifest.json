@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Guitar/static/css/main.06fd9ff8.css",
+    "main.css": "/Guitar/static/css/main.02595d9d.css",
     "main.js": "/Guitar/static/js/main.fe290f7d.js",
     "static/js/787.4044f08c.chunk.js": "/Guitar/static/js/787.4044f08c.chunk.js",
     "static/media/other.JPG": "/Guitar/static/media/other.995a8b94032fb2a50b08.JPG",
@@ -8,12 +8,12 @@
     "static/media/guitar.JPG": "/Guitar/static/media/guitar.432e49695cf4446c97d0.JPG",
     "static/media/guitar_main.png": "/Guitar/static/media/guitar_main.f0cd140109c519830a03.png",
     "index.html": "/Guitar/index.html",
-    "main.06fd9ff8.css.map": "/Guitar/static/css/main.06fd9ff8.css.map",
+    "main.02595d9d.css.map": "/Guitar/static/css/main.02595d9d.css.map",
     "main.fe290f7d.js.map": "/Guitar/static/js/main.fe290f7d.js.map",
     "787.4044f08c.chunk.js.map": "/Guitar/static/js/787.4044f08c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06fd9ff8.css",
+    "static/css/main.02595d9d.css",
     "static/js/main.fe290f7d.js"
   ]
 }
